@@ -1,0 +1,9 @@
+rincian materi
+  1. dasar dasar pemrograman dart
+  2. github
+  3. dasar dasar fluttter 
+  4. UI/UX
+  5. Desain pattern
+  6. Desain database
+  7.  backend
+  8. frontend
